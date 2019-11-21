@@ -1,0 +1,3 @@
+*.buildinfo
+*.changes
+linux-image-*-dbg_*.deb
